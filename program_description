@@ -1,0 +1,4 @@
+My program records user data and outputs it to a file. After presenting the information from its last run it starts in to five different questions: 
+your name, your favorite animal, your favorite state, your favorite place of higher education in the state of Montana, and your favorite NFL team. 
+It finishes the program displaying a window with your responses in text and image form and then writes to a text file so you can look back on your 
+questionnaire answers.
